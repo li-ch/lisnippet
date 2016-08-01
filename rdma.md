@@ -22,4 +22,8 @@ Yum commands
 ```bash
 yum install <packages>
 ```
+Get root privilege: [weixin.oa.com](http://weixin.oa.com/)
+```bash
+su - admin
+```
 
